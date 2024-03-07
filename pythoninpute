@@ -1,0 +1,5 @@
+Sara = 25
+Tanvir = input ("enter the number:")
+print ("sum :" , Sara +int (Tanvir))
+#result you need to input the second one and you have to be careful about the int value because the first input is an int but the second one was string because i didn't add any integer value 
+ . After the sum "sum " you need to add, neither you will get an error. and input number you need to add data type if it is string you need to add string.
